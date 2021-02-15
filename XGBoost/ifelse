@@ -1,0 +1,3 @@
+PredictionBinaries<-as.factor(ifelse(Predicitions>0.7,1,0))
+testing$Survived<-as.factor(testing$Survived)
+confusionMatrix(PredictionsBinaries,testing$Survived) #Display confusion matrix

@@ -1,0 +1,4 @@
+# initializing two tnesors
+a = torch.tensor(2)
+b = torch.tensor(1)
+print(a,b)

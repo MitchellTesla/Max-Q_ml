@@ -1,0 +1,10 @@
+# setting the random seed for pytorch
+torch.manual_seed(42)
+
+# matrix of random numbers
+a = torch.randn(3,3)
+a
+  tensor([[ 0.3367, 0.1288, 0.2345],
+          [ 0.2303,-1.1229,-0.1863],
+          [ 2.2082,-0.6380, 0.4617]])
+          

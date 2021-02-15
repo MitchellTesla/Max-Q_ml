@@ -1,0 +1,80 @@
+# Both the NumPy and the Torch libraries imported as follows.
+
+# importing libraries
+import numpy as np 
+import torch
+Now, let’s see how we can assign a variable in NumPy as well as PyTorch:
+
+# initializing a numpy array
+a = np.array(1)
+
+# initializing a tensor
+b = torch.tensor(1) 
+
+print(a)
+print(b)
+array and tensor
+
+Let’s quickly look at the type of both these variables:
+
+type(a), type(b)                 
+type of variables
+
+Type here confirms that the first variable (a) here is a NumPy array whereas the second variable (b) is a torch tensor. 
+
+From this point forward, we will not be comparing PyTorch agains NumPy as you must have got an idea of how the codes are similar.
+
+Concatenating Tensors
+Let’s say we have two tensors as shown below:
+
+# initializing two tensors
+a = torch.tensor([[1,2],[3,4]])
+b = torch.tensor([[5,6],[7,8]])
+print(a, '\n')
+print(b)
+pytorch tensors
+
+What if we want to concatenate these tensors vertically? We can use the below code:
+
+# concatenating vertically
+torch.cat((a,b))
+As you can see, the second tensor has been stacked below the first tensor. We can concatenate the tensors horizontally as well by setting the dim parameter to 1:
+
+# concatenating horizontally
+torch.cat((a,b),dim=1)
+horizontally concatenating pytorch tensors
+
+ 
+
+Reshaping Tensors
+Let’s say we have the following tensor:
+
+ 
+# setting the random seed for pytorch
+torch.manual_seed(42) 
+
+# initializing 
+tensor a = torch.randn(2,4)
+print(a)
+a.shape
+pytorch tensor
+
+We can use the .reshape() function and pass the required shape as a parameter. Let’s try to convert the above tensor of shape (2,4) to a tensor of shape (1,8):
+
+# reshaping tensor
+b = a.reshape(1,8)
+print(b)
+b.shape
+ reshaping tensor 
+
+Awesome! PyTorch also provides the functionality to convert NumPy arrays to tensors. You can use the below code to do it:
+
+# initializing a numpy array
+a = np.array([[1,2],[3,4]])
+print(a, '\n')
+
+# converting the numpy array to tensor
+tensor = torch.from_numpy(a)
+print(tensor)
+converting numpy array to tensor
+

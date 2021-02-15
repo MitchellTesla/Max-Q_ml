@@ -1,0 +1,10 @@
+SimpleGBMModel<-gbm(Survived~,-PassengerId-Name-Ticket,
+                    distrubution="bernoulli",
+                    data=Train,
+                    n.trees=1000
+                    interaction.depth = 4
+                    shrinkage = 0.01)
+                    
+print(SimpleGBMModel)
+
+summary(SimpleGBMModel)

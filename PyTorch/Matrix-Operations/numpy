@@ -1,0 +1,19 @@
+# setting the random seed for numpy and 
+initializing two matrices
+np.random.seed(42)
+a = np.random.randn(3,3)
+b = np.random.randn(3,3)
+
+# matrix addition
+print(np.add(a,b), '\n')
+
+#matrix subtraction
+print(np.subtract(a,b), '\n')
+
+# matrix multiplication
+print(np.dot(a,b), '\n')
+
+# matrix multiplication
+print(np.divide(a,b))
+
+ 

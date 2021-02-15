@@ -1,0 +1,9 @@
+a = torch.zeros ((3,3))
+print(a)
+print(a.shape) 
+
+   tensor([[0., 0., 0.],
+           [0., 0., 0.],
+           [0., 0., 0.]])
+   torch.Size([3, 3])
+   

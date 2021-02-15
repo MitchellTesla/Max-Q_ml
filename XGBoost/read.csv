@@ -1,0 +1,10 @@
+Train<-read.csv("train.csv")
+
+set.seed(77850)
+inTrain <- createDataPartition(y = Train$Survived, 
+                                p = 750/891, list = FALSE)
+
+Train <- Train[ inTrain,]
+Test <- Train[ -inTrain,]
+
+testfile
