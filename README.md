@@ -1,8 +1,9 @@
 # Max - Q      (maximum dynamic pressure)
 M-L D-L Software Database
 
-Research and Development of advanced gradient boosting algorithms & models implemented
-in artificial neural-networks and virtual environments with PyTorch and Tensorflow, in some instances, as a form of Time-Series execution.
+Research and Development of advanced gradient boosting algorithms implemented
+in artificial neural-networks and virtual environments with PyTorch and Tensorflow, as a form of Time-Series execution.
+
 NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional.
 
 <img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting
