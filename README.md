@@ -2,9 +2,9 @@
 M-L D-L Software Database
 
 Research and Development of advanced gradient boosting algorithms implemented
-in artificial neural-networks and virtual environments with PyTorch and Tensorflow, as a form of Time-Series execution.
+in artificial neural-networks and virtual environments in a form of Time-Series execution.
 
-NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional.
+NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional without authorization.
 
 <img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting
 ===========
