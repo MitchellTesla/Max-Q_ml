@@ -1,5 +1,5 @@
 # Max - Q      (maximum dynamic pressure)
-M-L D-L Software Database
+M-L D-L Software 
 
 Research and Development of advanced gradient boosting algorithms implemented
 in artificial neural-networks and virtual environments in a form of Time-Series execution.
