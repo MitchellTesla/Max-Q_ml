@@ -2,7 +2,7 @@
 M-L D-L Software 
 
 Research and Development of advanced gradient boosting algorithms implemented
-in artificial neural-networks and virtual environments in a form of Time-Series execution.
+in artificial neural-networks and virtual environments as a form of Time-Series execution.
 
 NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional without authorization.
 
