@@ -1,5 +1,5 @@
 # Max - Q      (maximum dynamic pressure)
-Private M-L D-L Software integration
+Private M-L D-L Software integrations
 
 Research and Development of advanced gradient boosting algorithms implemented
 in artificial neural-networks and virtual environments as a form of Time-Series executions.
