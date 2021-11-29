@@ -1,4 +1,6 @@
 # Max - Q      (maximum dynamic pressure)
+
+
 Private M-L D-L Software integrations
 
 Research and Development of advanced gradient boosting algorithms implemented
@@ -6,7 +8,7 @@ in artificial neural-networks and virtual environments as a form of Time-Series 
 
 NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional without Oauth.
 
-<img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting
+<img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting  *Initiate FULL-THROTTLE*
 ===========
 [![Build Status](https://xgboost-ci.net/job/xgboost/job/master/badge/icon)](https://xgboost-ci.net/blue/organizations/jenkins/xgboost/activity)
 [![Build Status](https://img.shields.io/travis/dmlc/xgboost.svg?label=build&logo=travis&branch=master)](https://travis-ci.org/dmlc/xgboost)
