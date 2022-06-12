@@ -6,6 +6,10 @@ Private M-L D-L Software integrations
 Research and Development of advanced gradient boosting algorithms implemented
 in artificial neural-networks and virtual environments as a form of Time-Series execution.
 
+<p align="center">
+  <img src="mysterious-3.jpg" alt="demo" />
+</p>
+
 NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional without Oauth.
 
 <img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting  | *Initiate FULL-THROTTLE*
