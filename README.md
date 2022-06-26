@@ -1,6 +1,7 @@
 # Max - Q      (maximum dynamic pressure)
 R&D of advanced gradient boosting algorithms implemented in artificial neural-networks, as a form of Time-Series execution.
-XGBoost is a software library that stands for extreme gradient boosting.  The library is an implementation of gradient boosting machines created by Tianqi Chen as a research project, and since contributed to by other developers.  XGBoost focuses on computational speed and model performance, offering optimization features such as Gradient Boosting, Stochastic Gradient Boosting, and Regularized Gradient Boosting.
+
+XGBoost is a software library that stands for extreme gradient boosting.  The library is an implementation of gradient boosting machines created by Tianqi Chen as a research project, and since contributed to and by other developers.  
 
 <img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting 
 ===========
@@ -23,6 +24,8 @@ XGBoost is a software library that stands for extreme gradient boosting.  The li
 <p align="center">
   <img src="mysterious-3.jpg" alt="demo" />
 </p>
+
+XGBoost focuses on computational speed and model performance, offering optimization features such as Gradient Boosting, Stochastic Gradient Boosting, and Regularized Gradient Boosting.
 
 # NOTICE: 
 These repositories are a (WIP) work in progress, and not fully-functional without workflow/actions setup and OAuth.
